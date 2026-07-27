@@ -1,6 +1,6 @@
 # Third-party notices
 
-Дата проверки: 27 июля 2026 года.
+Дата проверки: 28 июля 2026 года.
 
 `EditFileMD` содержит сторонние программные компоненты. Эти компоненты принадлежат соответствующим правообладателям и распространяются на условиях собственных лицензий.
 
@@ -14,7 +14,7 @@
 | Tauri API | 2.11.1 | Интерфейс приложения | Apache-2.0 OR MIT |
 | Tauri dialog plugin | 2.7.1 | Системные диалоги выбора файлов и папок | MIT OR Apache-2.0 |
 | React / React DOM | 19.2.7 | Пользовательский интерфейс | MIT |
-| CodeMirror packages | 6.x | Редактор Markdown | MIT |
+| CodeMirror packages | 6.x | Редактор Markdown и исходного текста | MIT |
 | react-markdown | 10.1.0 | Отображение Markdown | MIT |
 | remark-gfm | 4.0.1 | Поддержка GitHub Flavored Markdown | MIT |
 | rehype-highlight | 7.0.2 | Подсветка кода | MIT |
@@ -34,7 +34,7 @@
 
 Для текущих lock-файлов и целевой платформы Windows x64 проверены:
 
-- 148 production package records Node.js;
+- 156 production package records Node.js;
 - 255 normal/build package records Rust;
 - полный набор обнаруженных license и notice files;
 - отдельные тексты для пакетов, лицензии которых хранятся в корне исходного репозитория, а не внутри опубликованного package archive.
