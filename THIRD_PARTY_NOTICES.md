@@ -1,6 +1,6 @@
 # Third-party notices
 
-Дата проверки: 20 июля 2026 года.
+Дата проверки: 27 июля 2026 года.
 
 `EditFileMD 1.0.0` содержит сторонние программные компоненты. Эти компоненты принадлежат соответствующим правообладателям и распространяются на условиях собственных лицензий.
 
@@ -20,6 +20,15 @@
 | rehype-highlight | 7.0.2 | Подсветка кода | MIT |
 | rehype-raw | 7.0.0 | Разбор встроенного HTML | MIT |
 | rehype-sanitize | 6.0.0 | Фильтрация HTML | MIT |
+
+## Codicons
+
+В интерфейсе `EditFileMD` используются отдельные SVG-иконки из набора Codicons.
+
+- Правообладатель: Microsoft Corporation и участники проекта Codicons.
+- Официальный источник: <https://github.com/microsoft/vscode-codicons>.
+- Лицензия: Creative Commons Attribution 4.0 International (CC BY 4.0) — <https://creativecommons.org/licenses/by/4.0/>.
+- Официальный файл лицензии: <https://github.com/microsoft/vscode-codicons/blob/main/LICENSE>.
 
 ## Проверенный состав
 
