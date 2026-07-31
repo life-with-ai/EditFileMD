@@ -1,6 +1,6 @@
 # Third-party notices
 
-Дата проверки: 28 июля 2026 года.
+Дата проверки: 31 июля 2026 года.
 
 `EditFileMD` содержит сторонние программные компоненты. Эти компоненты принадлежат соответствующим правообладателям и распространяются на условиях собственных лицензий.
 
@@ -29,6 +29,28 @@
 - Официальный источник: <https://github.com/microsoft/vscode-codicons>.
 - Лицензия: Creative Commons Attribution 4.0 International (CC BY 4.0) — <https://creativecommons.org/licenses/by/4.0/>.
 - Официальный файл лицензии: <https://github.com/microsoft/vscode-codicons/blob/main/LICENSE>.
+
+## Встроенные шрифты
+
+В приложение локально встроены две гарнитуры. Они загружаются из ресурсов приложения без обращения к CDN и без установки в Windows.
+
+### Cascadia Code
+
+- Версия: `2407.24`.
+- Назначение: редактор, исходный код и выделенный текст с рамкой.
+- Правообладатель: Microsoft Corporation и участники проекта Cascadia Code.
+- Официальный источник: <https://github.com/microsoft/cascadia-code/releases/tag/v2407.24>.
+- Лицензия: SIL Open Font License 1.1.
+- Полный текст лицензии: [LICENSE-CASCADIA-CODE.txt](LICENSE-CASCADIA-CODE.txt).
+
+### Inter
+
+- Версия: `4.1`.
+- Назначение: область чтения обычного текста и Markdown.
+- Правообладатель: The Inter Project Authors.
+- Официальный источник: <https://github.com/rsms/inter/releases/tag/v4.1>.
+- Лицензия: SIL Open Font License 1.1.
+- Полный текст лицензии: [LICENSE-INTER.txt](LICENSE-INTER.txt).
 
 ## Проверенный состав
 
