@@ -4,7 +4,7 @@
 
 ## Скачать
 
-Версия `1.4.0` после публикации будет доступна в разделе [GitHub Releases](https://github.com/life-with-ai/EditFileMD/releases/latest).
+Версия `1.4.0` доступна в разделе [GitHub Releases](https://github.com/life-with-ai/EditFileMD/releases/latest).
 
 Файл portable-версии:
 
