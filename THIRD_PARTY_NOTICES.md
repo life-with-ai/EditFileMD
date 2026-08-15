@@ -1,6 +1,6 @@
 # Third-party notices
 
-Дата проверки: 31 июля 2026 года.
+Дата проверки: 3 августа 2026 года.
 
 `EditFileMD` содержит сторонние программные компоненты. Эти компоненты принадлежат соответствующим правообладателям и распространяются на условиях собственных лицензий.
 
@@ -20,6 +20,8 @@
 | rehype-highlight | 7.0.2 | Подсветка кода | MIT |
 | rehype-raw | 7.0.0 | Разбор встроенного HTML | MIT |
 | rehype-sanitize | 6.0.0 | Фильтрация HTML | MIT |
+| encoding_rs | 0.8.35 | Декодирование и кодирование поддерживаемых Unicode- и legacy-форматов | (Apache-2.0 OR MIT) AND BSD-3-Clause |
+| chardetng | 1.0.0 | Эвристическое определение BOM-less legacy-кодировок | Apache-2.0 OR MIT |
 
 ## Codicons
 
@@ -57,7 +59,7 @@
 Для текущих lock-файлов и целевой платформы Windows x64 проверены:
 
 - 156 production package records Node.js;
-- 255 normal/build package records Rust;
+- 257 normal/build package records Rust;
 - полный набор обнаруженных license и notice files;
 - отдельные тексты для пакетов, лицензии которых хранятся в корне исходного репозитория, а не внутри опубликованного package archive.
 
